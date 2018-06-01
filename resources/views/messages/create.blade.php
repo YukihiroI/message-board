@@ -13,7 +13,4 @@
 
     {!! Form::close() !!}
 
-    {{ '<p style="color: red;">When passed through htmlentities function</p>' }}
-    {!! '<p style="color: red;">When not passed through htmlentities function</p>' !!}
-
 @endsection
